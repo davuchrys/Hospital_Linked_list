@@ -1,10 +1,10 @@
 ## Features of Hospital Single Linked List
 1. Patient Management
 
-       <br>a. Add a Patient: store patient details (ID, name, age, gender, disease).<br/>
-  <br>b. Remove a Patient: delete a patient by ID and update the assigned room’s capacity.<br/>
-  <br>c. Find Patient by ID: search for a specific patient.<br/>
-  <br>d. Display All Patients: show details of every patient, including their assigned room and doctor.<br/>
+      <br>a. Add a Patient: store patient details (ID, name, age, gender, disease).<br/>
+      <br>b. Remove a Patient: delete a patient by ID and update the assigned room’s capacity.<br/>
+      <br>c. Find Patient by ID: search for a specific patient.<br/>
+      <br>d. Display All Patients: show details of every patient, including their assigned room and doctor.<br/>
 
 2. Doctor Management
 
