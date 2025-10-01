@@ -30,7 +30,7 @@ The system provides a menu with these options:
 
   a. Add Patient<br/>
   <br>b. Add Doctor<br/>
-  <br>c. Add Room to Doctor<br/><br/>
+  <br>c. Add Room to Doctor<br/>
   <br>d. Assign Room to Patient<br/>
   <br>e. Remove Patient<br/>
   <br>f. Display All Doctors<br/>
