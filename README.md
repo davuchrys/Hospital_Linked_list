@@ -16,7 +16,7 @@
 
   a. Add Room under a Doctor: link a new room (room number, max capacity) to a doctor.<br/>
   <br>b. Assign Room to Patient: assign an available room to a patient, checking capacity.<br/>
-  c. Room Availability Check: ensures no duplicate room numbers and checks if a room is full.<br/>
+  <br>c. Room Availability Check: ensures no duplicate room numbers and checks if a room is full.<br/>
 
 4. Data Linking
 
